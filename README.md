@@ -13,7 +13,7 @@ About Me
 ![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-blue?style=for-the-badge&logo=openai)
 ![LangChain](https://img.shields.io/badge/-LangChain-green?style=for-the-badge&logo=python)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-purple?style=for-the-badge&logo=github)
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
