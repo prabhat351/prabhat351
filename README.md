@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Prabhat 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=💡+Machine+Learning+Enthusiast;🧠+LLMs+%26+LangChain+Developer;🤖+AI+Agent+Builder;🚀+Always+learning+something+new!" alt="Typing SVG" />
-</p>
+About Me  
+🔍   Exploring AI and Machine Learning—I'm passionate about Computer Vision, NLP, and intelligent agents.  
+☕️   Caffeine-fueled coder with a love for building smart systems.  
+📧   Reach me anytime: raiprabhat2004@gmail.com  
 
 ---
 
